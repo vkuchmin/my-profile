@@ -1,2 +1,2 @@
 # lerning python
-test
+test programming code with my mind
